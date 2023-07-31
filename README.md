@@ -71,3 +71,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+
+## Full Cycle - API REST + Automated Tests
+This repo was built around full cycle live about api rest with nest.js + automated tests
